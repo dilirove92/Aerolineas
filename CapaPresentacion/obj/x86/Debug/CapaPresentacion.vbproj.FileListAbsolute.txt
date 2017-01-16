@@ -1,0 +1,33 @@
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\bin\Debug\CapaNegocios.dll
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\bin\Debug\CapaDatos.dll
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\Aerolineas.Presentacion.Form1.resources
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\Aerolineas.Presentacion.Resources.resources
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.xml
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+E:\CUARTO\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+E:\CUARTO\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.xml
+E:\CUARTO\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.exe
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.xml
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\CapaPresentacion.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\Aerolineas.Presentacion.Form1.resources
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\Aerolineas.Presentacion.Resources.resources
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaPresentacion\bin\Debug\CapaDatos.pdb
