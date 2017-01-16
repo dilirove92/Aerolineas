@@ -1,0 +1,10 @@
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaDatos\bin\Debug\CapaDatos.dll
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaDatos\obj\Debug\CapaDatos.dll
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaDatos\obj\Debug\CapaDatos.pdb
