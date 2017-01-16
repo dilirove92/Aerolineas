@@ -1,0 +1,14 @@
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaNegocios\bin\Debug\CapaNegocios.dll
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaNegocios\bin\Debug\CapaNegocios.pdb
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaNegocios\bin\Debug\CapaDatos.dll
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaNegocios\bin\Debug\CapaDatos.pdb
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaNegocios\obj\Debug\CapaNegocios.dll
+c:\documents and settings\usuario\mis documentos\visual studio 2010\Projects\Aerolineas\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaNegocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\SALA206\Desktop\Cuarto A - Romero Vera Diana - LP1\Aerolineas\CapaNegocios\obj\Debug\CapaNegocios.pdb
